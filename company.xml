@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <company>
+        <staff>
+            <employee firstname="Ivan" id="1" lastname="Ivanov"/>
+            <employee firstname="Petr" id="2" lastname="Petrov">
+                <tool>124562</tool>
+            </employee>
+        </staff>
+        <equipment>
+            <tool id="123098">Screwdriver</tool>
+        </equipment>
+    </company>
+</root>
